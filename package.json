@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Bruno Amaral Futema <bruno.futema@outlook.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "devDependencies": {
     "nodemon": "^1.19.4"
   },
