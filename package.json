@@ -1,0 +1,13 @@
+{
+  "name": "bootcampgostackdesafio01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bruno Amaral Futema <bruno.futema@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
